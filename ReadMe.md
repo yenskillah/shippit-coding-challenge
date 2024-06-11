@@ -41,7 +41,7 @@ cd KingArthurFamily
 composer install
 ```
 
-- Run the unit test:
+- Run the unit tests to make sure things are working:
 ```
 vendor/bin/phpunit tests --testdox
 ```
