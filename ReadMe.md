@@ -122,7 +122,7 @@ php main.php data/sample-2.txt
 ```
 ```
 CHILD_ADDITION_FAILED
-NONE*
+NONE
 ```
 ```
 php main.php data/sample-3.txt
