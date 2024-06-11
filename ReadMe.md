@@ -34,7 +34,7 @@ git clone https://github.com/yenskillah/shippit-coding-challenge.git
 ```
 - Once cloned, change directory to the KingArthurFamily folder:
 ```
-cd KingArthurFamily
+cd shippit-coding-challenge
 ```
 - Install the composer: 
 ```
