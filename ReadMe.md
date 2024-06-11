@@ -32,7 +32,7 @@ Please follow the instructions below for the execution of the script:
 ```
 git clone https://github.com/yenskillah/shippit-coding-challenge.git
 ```
-- Once cloned, change directory to the KingArthurFamily folder:
+- Once cloned, change directory to the shippit-coding-challenge folder:
 ```
 cd shippit-coding-challenge
 ```
